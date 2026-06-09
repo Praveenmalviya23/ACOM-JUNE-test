@@ -1,5 +1,5 @@
-ACOM UPDATED VERSION as of april 23.
-
+This is the updated version till JUNE. IT doesnt includes the FLOW_SW in the compact summary string. 
+this is the basic tested version without updates from JUNE onwards.
 (See the README.md file in the upper level 'examples' directory for more information about examples.)
 
 This is the simplest buildable example. The example is used by command `idf.py create-project`
